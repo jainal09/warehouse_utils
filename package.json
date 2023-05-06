@@ -1,7 +1,6 @@
 {
   "name": "warehouse-utils",
   "version": "0.1.0",
-  "homepage": "git@github.com:mithundiddi/warehouse_utils.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
